@@ -16,7 +16,7 @@ npm start
 ### 데모 영상
 
 Vercel을 통해 배포.
-[배포 링크](https://wanted-pre-onboarding-frontend-weld-six.vercel.app/)
+[배포 링크](https://wanted-pre-onboarding-frontend-t5f1.vercel.app/)
 
 ### 사용 라이브러리
 
